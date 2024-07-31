@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Poppins , sans-serif;
+}
+
+header{
+    background-color: chocolate;
+    height: 72px;
+}
+
+.HC button{
+    background-color: black;
+    font-family: serif;
+    font-weight: 500;
+}
+
+nav a{
+    color: black;
+    font-family: serif;
+    font-weight: 500;
+    display: inline-flex;
+}
+
+.a:hover{
+    background-color: black;
+}
+
+.HC .container a span{
+    font-family: serif;
+    color: black;
+    font-weight: 800;
+}
+
+.HC .container a img{
+    height: 30px;
+    width: 30px;
+    margin-bottom: 10px;
+}
+.hero h1{
+    color: black;
+    font-family: serif;
+    font-weight: 1000;
+}
+
+.hero p{
+    font-family: serif;
+}
+
+.hero .container img{
+    height: 110%;
+    width: 100%;
+    border-radius: 10px;
+    transition: transform 0.5s
+}
+
+.hero .container img:hover{
+    transform: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.hero button{
+    font-family: serif;
+    color: rgb(61, 56, 56);
+}
+
+section .content{
+    height: 50%;
+
+}
+
+
+.content{
+    background-color: chocolate;
+    padding: -20%;
+}
+
+.content h1{
+    color: black;
+    font-family: serif;
+    font-weight: 800px;
+    font-size: 50px;
+}
+
+
+.content .color_card{
+    background-color: black;
+}
+
+
+footer{
+    background-color: black;
+}
+
+footer .container a img{
+    height: 30px;
+    width: 30px;
+    margin-bottom: 10px;
+}
+
+footer .container a span{
+    font-family: serif; 
+}
+
+footer nav li{
+    font-size: 16px;
+}
+
+
+
+
